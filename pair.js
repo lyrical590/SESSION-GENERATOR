@@ -57,21 +57,21 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by LYRICAL TECH*
+*_Pair Code Connected by REAGAN TECH*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN  LYRICAL 』*
+║ *『 WOW YOU'VE CHOSEN  REAGAN 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@wasitech1_
+║❒ *LYRICAL*
 ║❒ *Owner:* _https://wa.me/254769799982_
-║❒ *Repo:* _https://github.com/lyrical590/LYRICAL-XMD
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *Plugins:* _https://github.com/lyrical590/LYRICAL-XMD
+║❒ *Repo:* _https://github.com/DevReaganSmith/reagan-xmd
+║❒ *words:* PLEASE FORK
+║❒ *words:MADE WITH LOVE BY REAGAN 
+║❒ *Plugins:* https://github.com/DevReaganSmith/reagan-xmd
 ╚════════════════════════╝
 _____________________________________
 
